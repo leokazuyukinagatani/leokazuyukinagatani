@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-purple)](https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289)
+[![Meu perfil Rocketseat](https://img.shields.io/badge/-Rocketseat-purple)](https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289)
