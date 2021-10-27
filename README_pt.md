@@ -7,7 +7,7 @@
 
 <table align="right">
    <tr><td>Change Language</td></tr>
-   <tr><td><a href="README_pt.md">English 🇺🇸</a></td></tr>
+   <tr><td><a href="README.md">English 🇺🇸</a></td></tr>
 </table>
 
 #
