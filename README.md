@@ -2,9 +2,6 @@
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" height="275" width="550"/><br> 
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding"  width="550"/><br> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Meu perfil Rocketseat](https://img.shields.io/badge/-Rocketseat-purple)](https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289)
 
 
@@ -13,7 +10,9 @@
  <tr><td><a href="README_pt.md">🇧🇷 Portuguese</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;Sobre mim
+#
+<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<p align="left"> 
 
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Líder Técnico na [UNESP](https://unesp.br/) (Universidade Estadual Paulista) \
@@ -36,7 +35,8 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
+  <summary><b>Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="left"></b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
