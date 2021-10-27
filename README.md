@@ -1,3 +1,5 @@
+
+<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders"  width="550"/><br> 
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding"  width="550"/><br> 
 c
 # Welcome!🚀
