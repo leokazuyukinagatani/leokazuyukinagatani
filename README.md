@@ -12,7 +12,7 @@
 
 #
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(2).gif" width="100">
+<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(2).gif" width="150">
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I am currently graduating in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
 
 #
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(1).gif" width="150">
+<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(1).gif" width="275">
 
 
 <p align="left">
