@@ -11,13 +11,13 @@
 
 #
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
-<h3 align="left">Sobre mim: </h3>
+<h3 align="left">About me: </h3>
 
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Atualmente sou graduando em Sistemas de Informação na [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;Pesquisando e escrevendo sobre Bitcoin para o trabalho de conclusão de curso.\
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado na solução de problemas.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Morando em Florianópolis atualmente.
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;I am currently graduating in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;Researching and writing about Bitcoin for course completion work.\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
 <p align="center">
    <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 </p>
