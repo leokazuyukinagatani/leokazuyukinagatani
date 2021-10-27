@@ -162,6 +162,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <br/>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+   <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
+   <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=black&logo=github"/>
 </p>
