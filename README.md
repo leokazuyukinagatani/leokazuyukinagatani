@@ -38,6 +38,12 @@
   <summary><b>Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="left"></b></summary>
   <br/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="figma" height="50"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="figma" height="50"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="figma" height="50"/> </a>
+
+
+
 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/> </a> 
