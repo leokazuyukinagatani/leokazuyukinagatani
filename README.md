@@ -9,8 +9,7 @@
 
 
 <table align="right">
- <tr><td><a href="README.md"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README.md"> 🇺🇸 </a></td></tr>
  <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
 </table>
 
