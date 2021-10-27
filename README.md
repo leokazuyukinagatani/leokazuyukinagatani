@@ -1,6 +1,9 @@
-
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" height="275" width="550"/><br> 
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding"  width="550"/><br> 
+<div align="center">
+   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" height="275" width="550"/>
+   <br> 
+   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding" width="550"/>
+   <br> 
+</div>
 <table align="right">
    <tr><td>Change Language</td></tr>
    <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
