@@ -7,7 +7,7 @@
 
 <table align="right">
    <tr><td>Change Language</td></tr>
-   <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
+   <tr><td><a href="README_pt.md">English 🇺🇸</a></td></tr>
 </table>
 
 #
@@ -33,7 +33,7 @@
 </p>
 
 <details>
-  <summary><b>Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></summary>
+  <summary><b>Linguagens e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></summary>
   <br/>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/> </a>
