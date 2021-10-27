@@ -6,12 +6,12 @@
 
 
 <table align="right">
- <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
- <tr><td><a href="README_pt.md">🇧🇷 Portuguese</a></td></tr>
+ <tr><td>Change Language</td></tr>
+ <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
 </table>
 
 #
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">Sobre mim: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right"></h3>
 <p align="left"> 
 
 
@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
 &nbsp;&nbsp;&nbsp;🔍 &nbsp;Pesquisando e escrevendo sobre Bitcoin para o trabalho de conclusão de curso.\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado na solução de problemas.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Morando em Florianópolis atualmente.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Morando em Florianópolis atualmente.
 
 #
 <h3 align="left">Connect with me:</h3>
