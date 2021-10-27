@@ -4,6 +4,7 @@
    <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding" width="550"/>
    <br> 
 </div>
+
 <table align="right">
    <tr><td>Change Language</td></tr>
    <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
@@ -18,16 +19,15 @@
 &nbsp;&nbsp;&nbsp;🔍 &nbsp;Researching and writing about Bitcoin for course completion work.\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
-<p align="center">
-   <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
-</p>
 
 #
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
     <a href="mailto:leokazuyukinagatani@gmail.com?subject=Olá%20Kazuyuki%20Nagatani"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.facebook.com/leokazuyuki.nagatani"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/leo-kazuyuki-nagatani-637780165"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/leo-kazuyuki-nagatani-637780165"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 </p>
 
 <details>
