@@ -9,8 +9,8 @@
 
 
 <table align="right">
- <tr><td><a href="README.md"> 🇺🇸 </a></td></tr>
- <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
+ <tr><td><a href="README.md"> 🇺🇸 English</a></td></tr>
+ <tr><td><a href="README_pt.md">🇧🇷 Portuguese</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;Sobre mim
