@@ -1,15 +1,14 @@
 
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" height="275" width="550"/><br> 
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding"  width="550"/><br> 
-
 <table align="right">
    <tr><td>Change Language</td></tr>
    <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
 </table>
 
 #
-<h3 align="left">Sobre mim: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right"></h3>
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
+<h3 align="left">Sobre mim: </h3>
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Atualmente sou graduando em Sistemas de Informação na [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
