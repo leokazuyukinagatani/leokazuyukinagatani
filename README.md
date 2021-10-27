@@ -20,14 +20,16 @@
 &nbsp;&nbsp;&nbsp;🔍 &nbsp;Pesquisando e escrevendo sobre Bitcoin para o trabalho de conclusão de curso.\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado na solução de problemas.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Morando em Florianópolis atualmente.
+<p align="center">
+   <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
+</p>
 
 #
 <h3 align="left">Connect with me:</h3>
 <p align="center">
  
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:leokazuyukinagatani@gmail.com?subject=Olá%20Kazuyuki%20Nagatani"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
