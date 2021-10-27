@@ -15,9 +15,9 @@
 <p align="left"> 
 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente sou graduando na [UFGD](https://portal.ufgd.edu.br/) (Universidade Federal da Grande Dourados) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente sou graduando em Sistemas de Informação na [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Apaixonado por inovação e tecnologia.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre Bitcoin para o trabalho de conclusão de curso.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando e escrevendo sobre Bitcoin para o trabalho de conclusão de curso.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2014 focado na solução de problemas.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Morando em Florianópolis atualmente.
 
