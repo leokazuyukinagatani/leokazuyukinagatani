@@ -36,28 +36,24 @@
   <summary><b>Languages and Tools: </b></summary>
   <br/>
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="50"/> </a>
-
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="javascript" height="50"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="javascript" height="50"/> </a>
-
-
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
-  <a href="https://www.mongodb.com/pt-br" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="50" /> </a>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" alt="meteor" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="50"/>
 
 </details>
 
