@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/Technika%20Tribe.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" height="275" width="550"/>
+   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/hello-coders.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" width="550"/>
    <br> 
    <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding" width="550"/>
    <br> 
@@ -12,7 +12,7 @@
 
 #
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(2).gif" width="150">
+<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150">
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I am currently graduating in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
 
 #
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/ezgif.com-gif-maker%20(1).gif" width="275">
+<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275">
 
 
 <p align="left">
