@@ -79,7 +79,7 @@
 
 <p align="right">
    <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
-   <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=black&logo=github"/>
+   <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=green&logo=github"/>
 </p>
 
 
