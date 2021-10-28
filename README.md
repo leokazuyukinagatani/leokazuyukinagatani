@@ -33,7 +33,7 @@
 </p>
 
 <details>
-  <summary><b>Languages and Tools: </b></summary>
+  <summary><b>🛠️ &nbsp;Languages and Tools: </b></summary>
   <br/>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/>
