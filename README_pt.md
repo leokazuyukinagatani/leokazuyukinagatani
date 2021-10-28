@@ -7,18 +7,18 @@
 
 <table align="right">
    <tr><td>Change Language</td></tr>
-   <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
+   <tr><td><a href="README.md">English 🇺🇸</a></td></tr>
 </table>
 
 #
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150">
 
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;I am currently graduating in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;Researching and writing about Bitcoin for course completion work.\
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;Estou atualmente graduando Sistemas de Informação na [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou pesquisando e escrevendo um artigo para conclusão de curso sobre Bitcoin.\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado em soluções.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Atualmente morando em Florianópolis.
 
 #
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275">
@@ -33,7 +33,7 @@
 </p>
 
 <details>
-  <summary><b>🛠️ &nbsp;Languages and Tools: </b></summary>
+  <summary><b>🛠️ &nbsp;Linguagens e Tecnologias: </b></summary>
   <br/>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/>
@@ -57,8 +57,6 @@
 
 </details>
 
-
-
 <details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
@@ -78,5 +76,3 @@
    <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
    <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=green&logo=github"/>
 </p>
-
-
