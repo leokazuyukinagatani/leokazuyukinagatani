@@ -63,10 +63,11 @@
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leokazuyukinagatani" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leokazuyukinagatani&theme=algolia&show_icons=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leokazuyukinagatani" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokazuyukinagatani" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=leokazuyukinagatani&theme=algolia&show_icons=true"/>
+       <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokazuyukinagatani&theme=algolia&show_icons=true" />
     </p>
 </details>
 
