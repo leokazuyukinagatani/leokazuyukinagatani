@@ -60,7 +60,7 @@
 
 
 <details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <summary><b>:gear: &nbsp;Github Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leokazuyukinagatani&theme=prussian&show_icons=true" />
