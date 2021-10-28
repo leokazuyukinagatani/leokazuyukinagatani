@@ -6,8 +6,10 @@
 </div>
 
 <table align="right">
-   <tr><td>Change Language</td></tr>
-   <tr><td><a href="README_pt.md">Portuguese 🇧🇷 </a></td></tr>
+   <tr><td><strong>Change Language</strong></td></tr>
+  
+   <tr><td align="center"> <a href="README_pt.md"><img src="https://img.shields.io/badge/portuguese-009c3b?style=for-the-badge&logoColor=white" /></a></td></tr>
+     
 </table>
 
 #
