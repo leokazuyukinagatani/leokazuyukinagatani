@@ -1,7 +1,5 @@
 <div align="center">
-  <a src="https://www.linkedin.com/in/leo-kazuyuki-nagatani-637780165/">
-  <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/hello-coders.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" width="550"/>
-  </a> 
+   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/hello-coders.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" width="550"/>
    <br> 
    <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding" width="550"/>
    <br> 
@@ -82,5 +80,4 @@
    <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
    <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=green&logo=github"/>
 </p>
-
 
