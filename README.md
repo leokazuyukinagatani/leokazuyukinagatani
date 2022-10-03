@@ -34,9 +34,7 @@
     <a href="https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289"><img src="https://img.shields.io/badge/rocketseat-8257e5?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-<details>
-  <summary><b>🛠️ &nbsp;Linguagens e Tecnologias: </b></summary>
-  <br/>
+#
 
 ### 🚀Frameworks e Bibliotecas:
 <div style="display:flex">
@@ -82,7 +80,6 @@
 
 
 
-</details>
 
 
 
