@@ -14,9 +14,9 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150">
 
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Estou atualmente graduando Sistemas de Informação na [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;Formado em Sistemas de Informação pela [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou pesquisando e escrevendo um artigo para conclusão de curso sobre Bitcoin.\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou estudando desenvolvimento web com as seguintes tecnlogias(React, Radix-ui, NodeJS, Prisma, Typescript)\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado em soluções.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Atualmente morando em Florianópolis.
 
@@ -35,25 +35,50 @@
 <details>
   <summary><b>🛠️ &nbsp;Linguagens e Tecnologias: </b></summary>
   <br/>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" alt="meteor" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="50"/>
+
+### 🚀Frameworks e Bibliotecas:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/Radix-2?style=for-the-badge">
+
+</div>
+
+### 👨‍💻Languages:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black">
+</div>
+
+### 💻Terminal & Version control:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/linux%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/Git%20Kraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white">
+
+</div>
+
+### ☁Cloud:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</div>
+
+### 👨‍💻Office:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+
+
 
 </details>
 
@@ -74,5 +99,4 @@
 
 <p align="right">
    <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
-   <img src="https://badges.pufler.dev/visits/leokazuyukinagatani/leokazuyukinagatani?color=green&logo=github"/>
 </p>
