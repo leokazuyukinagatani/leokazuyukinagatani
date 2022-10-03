@@ -16,7 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Formado em Sistemas de Informação pela [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou estudando desenvolvimento web com as seguintes tecnlogias(React, Radix-ui, NodeJS, Prisma, Typescript)\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou estudando focado nas seguintes tecnologias(React, Radix-ui, NodeJS, Prisma, Typescript)\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado em soluções.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Atualmente morando em Florianópolis.
 
