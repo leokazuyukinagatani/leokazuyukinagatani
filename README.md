@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=for-the-badge&logo=reacthookform&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/yup-3E67B1?style=for-the-badge&logo=yup&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/joi-3E67B1?style=for-the-badge&logo=joi&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
