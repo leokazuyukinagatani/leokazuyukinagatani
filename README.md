@@ -26,10 +26,10 @@
 
 <p align="left" style="display: flex; max-width: 100vw; gap:8px;">
     <a href="mailto:leokazuyukinagatani@gmail.com?subject=Olá%20Kazuyuki%20Nagatani"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.facebook.com/leokazuyuki.nagatani"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<!--     <a href="https://www.facebook.com/leokazuyuki.nagatani"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
     <a href="https://www.linkedin.com/in/leo-kazuyuki-nagatani-637780165"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
-    <a href="https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289"><img src="https://img.shields.io/badge/rocketseat-8257e5?style=for-the-badge&logoColor=white" /></a>
+<!--     <a href="https://www.freecodecamp.org/leokazuyukinagatani"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a> -->
+<!--     <a href="https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289"><img src="https://img.shields.io/badge/rocketseat-8257e5?style=for-the-badge&logoColor=white" /></a> -->
 </p>
 
 #
