@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <!-- <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150"> -->
-
+<h2>📝 About Me:</h2>
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I graduated in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Toledo/PR.
 
 #
-<h2>Resume</h2>
+<h2>📄 Resume</h2>
 <a href="https://drive.google.com/uc?id=1sA4jBDajKsj15B4giJp1sHOHJZm0Erzi&export=download" download>
   <img src="https://img.shields.io/badge/download-resume-%23D14836.svg?&style=for-the-badge&logo=resume&logoColor=white" />
 </a>
@@ -76,7 +76,7 @@
 
 #
 
-### Package managers:
+### 📦 Package managers:
 
 <div>
   <img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -103,7 +103,7 @@
 
 #
 
-### 🧰Tools:
+### 🧰 Tools:
 
 <div style="display:flex; max-width: 100vw; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
@@ -118,7 +118,7 @@
 
 #
 
-### 👨‍💻Languages:
+### 👨‍💻 Languages:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -134,7 +134,7 @@
 
 #
 
-### 💻Terminal & Version control:
+### 💻 Terminal & Version control:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -148,7 +148,7 @@
 
 #
 
-### ☁Cloud:
+### ☁ Cloud:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -160,7 +160,7 @@
 
 #
 
-### 👨‍💻Office:
+### 👨‍💻 Office:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
