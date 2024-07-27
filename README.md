@@ -14,11 +14,18 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <!-- <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150"> -->
 
+
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I graduated in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
 &nbsp;&nbsp;&nbsp;🔍 &nbsp;I am currently studying focused on the following technologies React Native, Typescript, Angular and Java).\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Toledo/PR.
+
+#
+<h2>Resume</h2>
+<a href="https://drive.google.com/uc?id=1sA4jBDajKsj15B4giJp1sHOHJZm0Erzi&export=download" download>
+  <img src="https://img.shields.io/badge/download-resume-%23D14836.svg?&style=for-the-badge&logo=resume&logoColor=white" />
+</a>
 
 #
 
