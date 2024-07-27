@@ -29,7 +29,8 @@
 
 #
 
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275">
+<!--<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275"> -->
+<h2>📱 Contact Me</h2>
 
 <p align="left" style="display: flex; max-width: 100vw; gap:8px;">
     <a href="mailto:leokazuyukinagatani@gmail.com?subject=Olá%20Kazuyuki%20Nagatani"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -41,7 +42,7 @@
 
 #
 
-### 🚀Frameworks and libraries:
+## 🚀 Frameworks and libraries:
 
 <div style="display:flex; max-width: 100vw; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -76,7 +77,7 @@
 
 #
 
-### 📦 Package managers:
+## 📦 Package managers:
 
 <div>
   <img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -88,7 +89,7 @@
 
 #
 
-### 🗄 Databases:
+## 🗄 Databases:
 
 <div>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -103,7 +104,7 @@
 
 #
 
-### 🧰 Tools:
+## 🧰 Tools:
 
 <div style="display:flex; max-width: 100vw; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
@@ -118,7 +119,7 @@
 
 #
 
-### 👨‍💻 Languages:
+## 👨‍💻 Languages:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -134,7 +135,7 @@
 
 #
 
-### 💻 Terminal & Version control:
+## 💻 Terminal & Version control:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -148,7 +149,7 @@
 
 #
 
-### ☁ Cloud:
+## ☁ Cloud:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -160,7 +161,7 @@
 
 #
 
-### 👨‍💻 Office:
+## 👨‍💻 Office:
 
 <div style="display:flex; flex-wrap: wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
