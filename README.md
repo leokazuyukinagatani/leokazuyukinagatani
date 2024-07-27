@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
    <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/hello-coders.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" width="550"/>
 
 </div>
@@ -10,10 +10,9 @@
      
 </table> -->
 
-#
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
-<img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150">
+<!-- <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150"> -->
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I graduated in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
