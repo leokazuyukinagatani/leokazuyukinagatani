@@ -7,20 +7,18 @@
 
 <table align="right">
    <tr><td><strong>Change Language</strong></td></tr>
-  
-   <tr><td align="center"> <a href="README_pt.md"><img src="https://img.shields.io/badge/portuguese-009c3b?style=for-the-badge&logoColor=white" /></a></td></tr>
-     
+   <tr><td align="center"> <a href="README.md"><img src="https://img.shields.io/badge/english-3C3B6E?style=for-the-badge&logoColor=white" /></a></td></tr>
 </table>
 
 #
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55" align="right">
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/about-me.gif" width="150">
 
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;I graduated in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;I am currently studying focused on the following technologies (React, Radix-ui, NodeJS, Prisma, Typescript).\
-&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;Formado em Sistemas de Informação pela [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Universidade Federal da Grande Dourados) \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Apaixonado por inovação e tecnologia.\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;Atualmente estou estudando focado nas seguintes tecnologias(React Native, Typescript, Angular e Java)\
+&nbsp;&nbsp;&nbsp;🛠 &nbsp;Programando desde 2014 focado em soluções.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Atualmente morando em Toledo/PR.
 
 #
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275">
@@ -34,8 +32,8 @@
     <a href="https://app.rocketseat.com.br/me/leo-kazuyuki-nagatani-1567323289"><img src="https://img.shields.io/badge/rocketseat-8257e5?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-#
 
+#
 ### 🚀Frameworks e Bibliotecas:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -79,12 +77,8 @@
 </div>
 
 
-
-
-
-
 <details>
-  <summary><b>:gear: &nbsp;Github Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=leokazuyukinagatani&theme=prussian&show_icons=true" />
@@ -101,4 +95,3 @@
 <p align="right">
    <img src="https://komarev.com/ghpvc/?username=leokazuyukinagatani&style=plastic&label=Views"/>
 </p>
-
