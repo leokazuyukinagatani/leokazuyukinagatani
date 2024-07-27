@@ -34,7 +34,7 @@
 
 #
 
-### 🚀Frameworks e Bibliotecas:
+### 🚀Frameworks and libraries:
 
 <div style="display:flex; max-width: 100vw; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
