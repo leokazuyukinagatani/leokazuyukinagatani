@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   <img src="https://img.shields.io/badge/Angular Material-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -99,6 +100,7 @@
 <div style="display:flex; max-width: 100vw; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
   <img src="https://img.shields.io/badge/Beekeeper-ffff00?style=for-the-badge&logo=beekeeper&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-ffff00?style=for-the-badge&logo=dbeaver&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/visual%20studio%20code-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white">
