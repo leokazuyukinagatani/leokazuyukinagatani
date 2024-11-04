@@ -17,7 +17,7 @@
 
 <p>🚀 &nbsp;Graduated in Information Systems from <a href="https://portal.ufgd.edu.br/cursos/sistemas_informacao/index">UFGD (Federal University of Grande Dourados)</a>.</p>
 <p>🌱 &nbsp;Passionate about technology and innovation, always eager to learn and improve.</p>
-<p>🔍 &nbsp;Currently enhancing my skills in React Native, TypeScript, Angular, and Java.</p>
+<p>🔍 &nbsp;Currently enhancing my skills in C# and Angular.</p>
 <p>🛠 &nbsp;Programming since 2014, with a focus on problem-solving through technology.</p>
 <p>💼 &nbsp;Full Stack Developer skilled in Java, React Native, ReactJS, TypeScript, and Angular.</p>
 <p>🏠 &nbsp;Based in Toledo, PR.</p>
